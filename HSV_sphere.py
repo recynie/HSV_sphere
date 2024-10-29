@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import plotly.graph_objects as go
 
-IMG='/home/aroma/Code/HSV_sphere/test3.jpeg'
+IMG='test3.jpeg'
 SPHERE=False
 
 
